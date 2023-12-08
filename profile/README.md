@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+We're on a mission to help build a better world by helping companies launch secure connected to the market. 
 
-**Here are some ideas to get you started:**
+With the world evermore connected, security has become a critical aspect of every connected product. 
+At thyrasec we help secure those products with world-class technology expertise at all product levels, from the design, 
+to the hardware, firmware, protocols and mobile applications
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our github repository contains public repositories for work and vulnerabilities research we're working on or completed
