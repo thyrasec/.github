@@ -1,6 +1,6 @@
 ## About Thyrasec 👋
 
-We're on a mission to help build a better world by helping companies launch :rocket: secure connected to the market. 
+We're on a mission to help build a better world by helping companies launch :rocket: secure wireless connected devices to the market. 
 
 With the world evermore connected, security has become a critical aspect of every connected product. 
 At thyrasec we help secure those products with world-class technology expertise at all product levels, from the design, 
